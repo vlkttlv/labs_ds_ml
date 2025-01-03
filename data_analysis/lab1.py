@@ -1,5 +1,6 @@
 
 def operation_with_numbers():
+    
     while True:
         operation = input("""
 Выберите операцию с числами:
